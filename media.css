@@ -1,0 +1,10 @@
+@media(max-width:1024px){
+    #circleOne{
+        position: relative;
+        top:-15%;
+    }
+    #circleTwo{
+        position: relative;
+        top:-64%;
+    }
+}
